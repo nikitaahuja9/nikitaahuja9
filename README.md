@@ -1,5 +1,6 @@
 ## Hi there! 👋🏻 I'm Nikita.
-I like to build things. Reach out to me for collaboration!
+I like to build things. Reach out to me for collaboration 💻
+
 📫 nikita.ahuja40@gmail.com
 
 #### Languages I use
